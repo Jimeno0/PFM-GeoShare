@@ -1,0 +1,94 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": false,
+      "cutVisible": false,
+      "reshapeVisible": false
+    },
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "ShareRoutes_4985"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "Horas",
+            "label": "Horas",
+            "isEditable": false
+          },
+          {
+            "fieldName": "Minutos",
+            "label": "Minutos",
+            "isEditable": false
+          },
+          {
+            "fieldName": "Segundos",
+            "label": "Segundos",
+            "isEditable": false
+          },
+          {
+            "fieldName": "Dificultad",
+            "label": "Dificultad",
+            "isEditable": true
+          },
+          {
+            "fieldName": "NombreRuta",
+            "label": "NombreRuta",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Fecha",
+            "label": "Fecha",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Usuario",
+            "label": "Usuario",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Comentario",
+            "label": "Comentario",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Imagen",
+            "label": "Imagen",
+            "isEditable": true
+          }
+        ]
+      },
+      {
+        "featureLayer": {
+          "id": "SharePhotoLocation_7589"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "Titulo",
+            "label": "Titulo",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Imagen",
+            "label": "Imagen",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Comentario",
+            "label": "Comentari",
+            "isEditable": true
+          },
+          {
+            "fieldName": "Fecha",
+            "label": "Fecha",
+            "isEditable": true
+          }
+        ]
+      }
+    ]
+  }
+}
